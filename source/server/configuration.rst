@@ -455,7 +455,7 @@ bed-search-radius
 * **default**: 1
 * **description**: The distance the server checks for a safe place to
   respawn a player near their bed. Increasing this value gives players a better
-  chance to respawn at their bed should it became obstructed.
+  chance to respawn at their bed should it become obstructed.
 
 use-faster-eigencraft-redstone
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
